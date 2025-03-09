@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "com.soft.ieeecs_dice"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.soft.ieeecs_dice"
